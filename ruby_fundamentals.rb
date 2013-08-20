@@ -5,13 +5,18 @@
 	+
 
 #Solution to "YOUR FAVORITE AND MINE, FIBONACCI"
+	if n <= 1
+		n
+	else
+		fibo_finder(n-1) + fibo_finder(n-2) 
+	end
 	
 
 #Solution to "HAPPY NUMBERS"
-
+&&&&&&&&&&&&&
 
 #Solution to "PRIME FACTORS"
-
+&&&&&&&&&&&&&
 
 #Solution to "REVERSE"
 	'nocab yknuhc'.reverse, 'chunky bacon'
@@ -35,10 +40,27 @@
 	"blue"
 
 #Solution to "HIRING PROGRAMMERS - BOOLEAN EXPRESSIONS IN RUBY"
-
+&&&&&&&&&&&&&
 
 #Solution to "TERNARY OPERATORS"
-
+&&&&&&&&&&&&&
 
 #Solution to "SHOTGUN ASSIGNMENT
 	"eat", "chunky", "bacon"
+
+#Solution to "OR EQUAL"
+	"rubeque"
+
+#Solution to "METHOD ACTING"
+&&&&&&&&&&&&&
+
+#Solution to "BIGGER ELEMENT"
+
+
+#Solution to "ARRAY ITEM REMOVAL"
+
+
+#Solution to "VERSION SORT"
+
+
+#Solution to "IMPLEMENT ARRAY#FLATTEN"
