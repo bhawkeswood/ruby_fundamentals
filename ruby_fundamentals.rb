@@ -33,3 +33,12 @@
 
 #Solution to "&& VERUSUS AND"
 	"blue"
+
+#Solution to "HIRING PROGRAMMERS - BOOLEAN EXPRESSIONS IN RUBY"
+
+
+#Solution to "TERNARY OPERATORS"
+
+
+#Solution to "SHOTGUN ASSIGNMENT
+	"eat", "chunky", "bacon"
