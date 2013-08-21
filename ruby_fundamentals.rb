@@ -55,7 +55,9 @@ is_an_experienced_ruby_programmer =
 	"rubeque"
 
 #Solution to "METHOD ACTING"
-&&&&&&&&&&&&&
+		__method__
+		__method__
+		__method__
 
 #Solution to "BIGGER ELEMENT"
 	items.detect { |int| int.even? }
