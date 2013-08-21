@@ -55,7 +55,7 @@
 &&&&&&&&&&&&&
 
 #Solution to "BIGGER ELEMENT"
-
+	items.detect(&:even?)
 
 #Solution to "ARRAY ITEM REMOVAL"
 
