@@ -13,10 +13,10 @@
 	
 
 #Solution to "HAPPY NUMBERS"
-&&&&&&&&&&&&&
+	
 
 #Solution to "PRIME FACTORS"
-&&&&&&&&&&&&&
+
 
 #Solution to "REVERSE"
 	'nocab yknuhc'.reverse, 'chunky bacon'
@@ -40,7 +40,10 @@
 	"blue"
 
 #Solution to "HIRING PROGRAMMERS - BOOLEAN EXPRESSIONS IN RUBY"
-&&&&&&&&&&&&&
+is_an_experienced_ruby_programmer =
+  (candidate.languages_worked_with.include? 'Ruby') &&
+  (candidate.years_of_experience >= 2 || candidate.github_points >= 500) &&
+  ! (candidate.age < 15 || candidate.applied_recently?)
 
 #Solution to "TERNARY OPERATORS"
 &&&&&&&&&&&&&
@@ -55,12 +58,30 @@
 &&&&&&&&&&&&&
 
 #Solution to "BIGGER ELEMENT"
-	items.detect(&:even?)
+	items.detect { |int| int.even? }
 
 #Solution to "ARRAY ITEM REMOVAL"
-
+	-[:r,:u,:e]
 
 #Solution to "VERSION SORT"
 
 
 #Solution to "IMPLEMENT ARRAY#FLATTEN"
+
+
+#Solution to "RELATED KEYS OF HASH"
+
+
+#Solution to "THE LITTLE HASH KEY THAT COULD"
+
+
+#Solution to "GETTERS AND SETTERS"
+
+
+#Solution to "CLASS TEST"
+
+
+#Solution to "QUEUE CONTINUUM"
+
+
+#Solution to "BABY GOT STACKS"
